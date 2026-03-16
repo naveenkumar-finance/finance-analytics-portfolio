@@ -82,4 +82,4 @@ These visualizations help identify long-term stock price trends and market activ
 
 ## Key Learning
 
-This project helped develop skills in financial data analysis and demonstrated how SQL queries and data visualization tools can be used to extract insights from stock market datasets.
+This project helped develop skills in financial data analysis and demonstrated how SQL queries and data visualization tools can be used to extract insights from stock market datasets
