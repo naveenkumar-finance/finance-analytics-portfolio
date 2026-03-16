@@ -19,7 +19,7 @@ Tools used:
 
 ## Projects
 
-### 1. Accounting Cycle Simulation
+### 1. Accounting Cycle & Financial Statement Modeling in Excel
 Simulated the complete accounting cycle from journal entries to financial statements.
 
 Skills demonstrated:
@@ -31,7 +31,7 @@ Skills demonstrated:
 
 ---
 
-### 2. Three Statement Financial Model
+### 2. Financial Modeling Project – 3 Statement Financial Model (Excel)
 Built an integrated financial model linking:
 
 - Income Statement
@@ -45,7 +45,7 @@ Features:
 
 ---
 
-### 3. Financial Statement Analysis & DCF Valuation
+### 3. Financial Statement Analysis & DCF Valuation of Procter & Gamble (2021–2025)
 Performed financial analysis and built a DCF valuation model.
 
 Key analysis:
@@ -66,7 +66,7 @@ Analysis performed:
 
 ---
 
-### 5. Portfolio Optimization (Modern Portfolio Theory)
+### 5. Equity Portfolio Optimization and Risk Modeling Using Modern Portfolio Theory
 Constructed a diversified portfolio and analyzed risk-return tradeoffs.
 
 Key metrics calculated:
