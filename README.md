@@ -1,76 +1,109 @@
-# Finance Analytics Portfolio
+# Naveen Kumar Kandukuri – Finance Analytics Portfolio
 
-Welcome to my Finance Analytics Portfolio.  
-This repository showcases hands-on projects in financial modeling, valuation, financial data analysis, and portfolio analytics.
+Welcome to my Finance Analytics Portfolio. This repository showcases hands-on projects demonstrating my skills in financial modeling, valuation, financial statement analysis, portfolio analytics, and financial data analysis using SQL and Power BI.
+
+I have professional experience supporting global investment banking datasets and have developed practical expertise through finance and analytics projects.
+
+---
 
 ## About Me
 
-Finance professional with experience supporting global investment banking datasets at FactSet.  
-Skilled in financial statement analysis, DCF valuation, financial modeling, SQL-based financial data analysis, and portfolio optimization.
+Finance professional with experience supporting investment banking datasets and corporate financial information. Skilled in financial modeling, DCF valuation, financial statement analysis, portfolio optimization, and financial data analysis.
 
-Tools used:
-- Excel
+Currently seeking roles in:
+
+- Financial Analyst
+- Equity Research Analyst
+- Investment Analyst
+- Valuation Analyst
+- Financial Data Analyst
+
+---
+
+## Tools & Technologies
+
+- Microsoft Excel
 - SQL
 - Power BI
 - Financial Modeling
 - Portfolio Analytics
+- Financial Statement Analysis
 
 ---
 
-## Projects
+## Portfolio Projects
 
-### 1. Accounting Cycle & Financial Statement Modeling in Excel
-Simulated the complete accounting cycle from journal entries to financial statements.
+### 1. Accounting Cycle Simulation
+Built a full accounting cycle model starting from journal entries to preparation of financial statements.
 
-Skills demonstrated:
-- Double entry accounting
-- Journal entries
-- T-accounts
-- Income statement preparation
-- Balance sheet preparation
+Key Skills:
+- Double Entry Accounting
+- Journal Entries
+- Financial Statement Preparation
 
----
-
-### 2. Financial Modeling Project – 3 Statement Financial Model (Excel)
-Built an integrated financial model linking:
-
-- Income Statement
-- Balance Sheet
-- Cash Flow Statement
-
-Features:
-- Financial forecasting
-- Revenue projections
-- Expense modeling
+Project Folder:
+`01_Accounting_Cycle`
 
 ---
 
-### 3. Financial Statement Analysis & DCF Valuation of Procter & Gamble (2021–2025)
-Performed financial analysis and built a DCF valuation model.
+### 2. Three Statement Financial Model
+Developed an integrated financial model linking Income Statement, Balance Sheet, and Cash Flow Statement.
 
-Key analysis:
-- Financial ratio analysis
-- Profitability analysis
-- Intrinsic value estimation
+Key Skills:
+- Financial Modeling
+- Financial Forecasting
+- Corporate Finance
 
----
-
-### 4. Stock Market Data Analysis (SQL + Power BI)
-Analyzed historical stock price data using SQL queries and built interactive Power BI dashboards.
-
-Analysis performed:
-- Price trends
-- Trading volume analysis
-- Volatility analysis
-- Moving averages
+Project Folder:
+`02_Three_Statement_Model`
 
 ---
 
-### 5. Equity Portfolio Optimization and Risk Modeling Using Modern Portfolio Theory
-Constructed a diversified portfolio and analyzed risk-return tradeoffs.
+### 3. Financial Statement Analysis & DCF Valuation
+Performed financial analysis and built a Discounted Cash Flow valuation model to estimate intrinsic value.
 
-Key metrics calculated:
-- Portfolio returns
-- Portfolio volatility
-- Beta
-- Sharpe ratio
+Key Skills:
+- Equity Valuation
+- Financial Ratio Analysis
+- DCF Modeling
+
+Project Folder:
+`Financial Statement Analysis & DCF Valuation of Procter & Gamble (2021–2025)`
+
+---
+
+### 4. Stock Market Data Analysis (SQL & Power BI)
+Analyzed historical stock price data using SQL and visualized insights through Power BI dashboards.
+
+Key Skills:
+- SQL Queries
+- Financial Data Analysis
+- Data Visualization
+
+Project Folder:
+`Stock Market Data Analysis using SQL and Power BI`
+
+---
+
+### 5. Equity Portfolio Optimization (Modern Portfolio Theory)
+Constructed a diversified equity portfolio and evaluated performance using risk-return metrics.
+
+Key Skills:
+- Portfolio Optimization
+- Risk Analysis
+- Sharpe Ratio
+- Beta & CAPM
+
+Project Folder:
+`Equity Portfolio Optimization & Risk Modeling Using Modern Portfolio THeory`
+
+---
+
+## Contact
+
+Email: nk3835223@gmail.com  
+Location: Hyderabad, India  
+
+LinkedIn: www.linkedin.com/in/naveenk-analyst
+
+---
